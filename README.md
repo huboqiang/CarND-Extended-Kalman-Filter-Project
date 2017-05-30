@@ -56,7 +56,7 @@ Yes, I just followed the instrucions in the preceding lessons because I did not 
 
 The workflow for the algorithm is like this:
 
-![png](./images/Imagealgorithm.png)
+![png](./images/imageAlgorithm.png)
 
 ### 3.2. Your Kalman Filter algorithm handles the first measurements appropriately.
 
